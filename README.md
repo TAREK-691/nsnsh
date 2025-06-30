@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntkhang03&label=Views&color=blue&style=plastic" alt="ntkhang" /> </p>
 
-<a href="https://twitter.com/ntkhang03">
-  <img align="left" alt="NTKhang's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+<a href="https://x.com/ntkhang03">
+  <img align="left" alt="NTKhang's X" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/x.svg"/>
 </a>
 <a href="https://github.com/ntkhang03">
   <img align="left" alt="NTKhang's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -24,13 +24,13 @@
 
 ## 📫 How to reach me:
 
-| Facebook | Telegram | Twitter | Youtube | 
+| Facebook | Telegram | X | Youtube | 
 | :---: | :---: | :---: | :---: |
-| [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg)](https://www.facebook.com/100010382497517/) <p><b><a href="https://www.facebook.com/100010382497517/">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg)](https://t.me/ntkhang03) <p><b><a href="https://t.me/ntkhang03">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tw.svg)](https://twitter.com/ntkhang03) <p><b><a href="https://twitter.com/ntkhang03">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg)](https://www.youtube.com/c/NTKhang03) <p><b><a href="https://www.youtube.com/c/NTKhang03">NTKhang03</a><b></p>  |
+| [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg)](https://www.facebook.com/100010382497517/) <p><b><a href="https://www.facebook.com/100010382497517/">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg)](https://t.me/ntkhang03) <p><b><a href="https://t.me/ntkhang03">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-x.svg)](https://x.com/ntkhang03) <p><b><a href="https://x.com/ntkhang03">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg)](https://www.youtube.com/c/NTKhang03) <p><b><a href="https://www.youtube.com/c/NTKhang03">NTKhang03</a><b></p>  |
 <!-- email -->
 **✉️ Email:** nthanhkhang2003@gmail.com
 
-[![Twitter: ntkhang03](https://img.shields.io/twitter/follow/ntkhang03?style=social)](https://twitter.com/ntkhang03)
+[![X: ntkhang03](https://img.shields.io/twitter/follow/ntkhang03)](https://x.com/ntkhang03)
 [![GitHub: ntkhang03](https://img.shields.io/github/followers/ntkhang03?label=follow&style=social)](https://github.com/ntkhang03)
 
 <!-- ngôn ngữ đã học -->
