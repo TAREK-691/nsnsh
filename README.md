@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntkhang03&label=Views&color=blue&style=plastic" alt="ntkhang" /> </p>
 
-<a href="https://x.com/ntkhang03">
+<a href="https://x.com/TarekShikdar1">
   <img align="left" alt="NTKhang's X" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/x.svg"/>
 </a>
-<a href="https://github.com/TAREK-69">
+<a href="https://github.com/TAREK-691">
   <img align="left" alt="NTKhang's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/nthanhkhang2003">
+<a href="https://instagram.com/_tarek.0">
   <img align="left" alt="NTKhang's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/tarek.shikdar.08">
@@ -26,7 +26,7 @@
 
 | Facebook | Telegram | X | Youtube |
 | :---: | :---: | :---: | :---: |
-| <a href="https://www.facebook.com/100010382497517/"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg" width="200"/></a><p><b><a href="https://www.facebook.com/100010382497517/">NTKhang03</a></b></p> | <a href="https://t.me/ntkhang03"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg" width="200"/></a><p><b><a href="https://t.me/ntkhang03">NTKhang03</a></b></p> | <a href="https://x.com/ntkhang03"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-x.svg" width="200"/></a><p><b><a href="https://x.com/ntkhang03">NTKhang03</a></b></p> | <a href="https://www.youtube.com/c/NTKhang03"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg" width="200"/></a><p><b><a href="https://www.youtube.com/c/NTKhang03">NTKhang03</a></b></p> |
+| <a href="https://www.facebook.com/tarek.shikdar.08/"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg" width="200"/></a><p><b><a href="https://www.facebook.com/100010382497517/">NTKhang03</a></b></p> | <a href="https://t.me/ntkhang03"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg" width="200"/></a><p><b><a href="https://t.me/">NTKhang03</a></b></p> | <a href="https://x.com/TarekShikdar1"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-x.svg" width="200"/></a><p><b><a href="https://x.com/TarekShikdar1">NTKhang03</a></b></p> | <a href="https://www.youtube.com/c/NTKhang03"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg" width="200"/></a><p><b><a href="https://www.youtube.com/c/NTKhang03">NTKhang03</a></b></p> |
 
 <!-- email -->
 **✉️ Email:** tarekshikdar849@gmail.com
