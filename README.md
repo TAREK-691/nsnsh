@@ -1,4 +1,4 @@
-## Hola, I'm [NTKhang!](https://www.facebook.com/ntkhang03) 👋
+## Hi, I'm [Tarek!](https://www.facebook.com/ntkhang03) 👋
 <h3 align="center">I am a student and developer from Vietnam.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ntkhang03&label=Views&color=blue&style=plastic" alt="ntkhang" /> </p>
