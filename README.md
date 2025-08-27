@@ -12,7 +12,7 @@
 <a href="https://instagram.com/nthanhkhang2003">
   <img align="left" alt="NTKhang's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/ntkhang03">
+<a href="https://www.facebook.com/tarek.shikdar.08">
   <img align="left" alt="NTKhang's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/ntkhang03">
