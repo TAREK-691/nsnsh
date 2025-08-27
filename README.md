@@ -29,7 +29,7 @@
 | <a href="https://www.facebook.com/100010382497517/"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg" width="200"/></a><p><b><a href="https://www.facebook.com/100010382497517/">NTKhang03</a></b></p> | <a href="https://t.me/ntkhang03"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg" width="200"/></a><p><b><a href="https://t.me/ntkhang03">NTKhang03</a></b></p> | <a href="https://x.com/ntkhang03"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-x.svg" width="200"/></a><p><b><a href="https://x.com/ntkhang03">NTKhang03</a></b></p> | <a href="https://www.youtube.com/c/NTKhang03"><img src="https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg" width="200"/></a><p><b><a href="https://www.youtube.com/c/NTKhang03">NTKhang03</a></b></p> |
 
 <!-- email -->
-**✉️ Email:** nthanhkhang2003@gmail.com
+**✉️ Email:** tarekshikdar849@gmail.com
 
 [![X: ntkhang03](https://img.shields.io/twitter/follow/ntkhang03)](https://x.com/ntkhang03)
 [![GitHub: ntkhang03](https://img.shields.io/github/followers/ntkhang03?label=follow&style=social)](https://github.com/ntkhang03)
