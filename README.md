@@ -6,7 +6,7 @@
 <a href="https://x.com/ntkhang03">
   <img align="left" alt="NTKhang's X" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/x.svg"/>
 </a>
-<a href="https://github.com/ntkhang03">
+<a href="https://github.com/TAREK-69">
   <img align="left" alt="NTKhang's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/nthanhkhang2003">
